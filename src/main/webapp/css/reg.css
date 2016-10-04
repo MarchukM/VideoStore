@@ -1,0 +1,25 @@
+#registration{
+    font: 25px Verdana;
+    position: absolute;
+    top:20%;
+    left: 33%;
+    width: 500px;
+    margin: 0 auto;
+}
+
+table{
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+input[type=submit]{
+    margin-left: 10px;
+}
+
+
+caption{
+    font: 40px Verdana;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    text-align: left;
+}
